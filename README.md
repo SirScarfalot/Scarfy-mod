@@ -1,5 +1,9 @@
 # Scarfy-mod
-Scarfy's mod
+
+Installation instructions:
+Download the .zip file, place it into your "mods" folder, unzip. Then it can be introduced to new worlds like any other mod. Should be compatible with nearly anything, but I have only tested it for experimental build #10934 version 0.E-5243-gf05c854 and have no particular intention of maintaining the mod at this time.
+
+Background:
 So, I was minding my own business, playing experimental build #10934 version 0.E-5243-gf05c854 when I noticed something: Ammonia is not craftable.
 
 This bugs me. I can't actually imagine why ammonia would not be craftable. Many other things that were craftable are no longer craftable due to... "realism", apparently.
@@ -33,7 +37,7 @@ Now, I've also gone ahead and read another reason as to why this can't ever be m
 
 Well, that definitely means my mod is out. As is "butchery refuse", adobe, wattle-and-daub, fertilizer, all forms of manure, vomiting, sewage... Look, I get it: you don't want immature potty humor. I don't either. It would add nothing and cost everything if we opened the door to "hurr hurr I threw a jar of pee at a zombie hurr", but this is serious historical chemistry. If the idea of using poop as a resource offends your sensibilities, then why did you implement it in the first place?
 
-So, I would appreciate an answer as to what *possible* justification there could be for the removal of the recipe for ammonia, beyond the obvious "It has already been decided, and no amount of debate will change that". If that's the sole and only reason for it, then so be it, but at least admit to that despotic stance without weaselling around it please.
+So, I would appreciate an answer as to what *possible* justification there could be for the removal of the recipe for ammonia, beyond the obvious "It has already been decided, and no amount of debate will change that". If that's the sole and only reason for it, then so be it, but at least admit to that despotic stance without weaselling around it.
 
 Until then, I've created a simple mod that enables the crafting of ammonia: not out of urine, since that's not actually a thing in the game, but from feces as a stand-in for other animal excreta. It's difficult, it requires a college textbook and a chemistry set, but I want my renewable black powder and your "realism" is not gonna stop me from having a realistic experience.
 
